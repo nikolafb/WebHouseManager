@@ -50,3 +50,17 @@ Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 numbe
 Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
 amount: 5601.0
 -----------------------------------------------
+------------------10/02/2021 17:12---------------------
+Price for area: 6.1 price for pet: 6.1 price for person: 6.1 date: 10/02/2021 17:12
+Employee name: Dimitrov Dimitrov  ID number: newrnwern
+Building in city: Sofia  address: j.k Gotse Delchev 71 number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 4 owner: Nikola members: 4 pet: true kids: 0
+amount: 7540.0
+-----------------------------------------------
+------------------10/02/2021 17:12---------------------
+Price for area: 6.1 price for pet: 6.1 price for person: 6.1 date: 10/02/2021 17:12
+Employee name: Dimitrov Dimitrov  ID number: newrnwern
+Building in city: Sofia  address: j.k Gotse Delchev 71 number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
+amount: 8310.0
+-----------------------------------------------

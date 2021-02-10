@@ -39,7 +39,6 @@ public class BuildingController {
 	@RequestMapping(value="createBuilding",method = RequestMethod.POST)
 	public String addNewBuilding(@ModelAttribute Building building,HttpSession session) {
 		if(session.getAttribute("VAT_Number")==null) {	
-			//session=request.getSession();
 			session.removeAttribute("VAT_Number");
 			return "redirect:/login";
 		}

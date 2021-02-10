@@ -50,7 +50,6 @@ public class EmployeeController {
 			session.removeAttribute("VAT_Number");
 			return "redirect:/login";
 		}
-		//create method witch emp with same idnumber cannot exists
 		int companyId=CompanyManager.getInstance().returnCompanyId(session.getAttribute("VAT_Number").toString());
 		int lastEmployeeId=EmployeeManager.getLastEmployeeId();
 		lastEmployeeId++;
@@ -268,7 +267,6 @@ public class EmployeeController {
 		}
 		Company company=CompanyManager.getInstance().returnCompanyByVATNumber(session.getAttribute("VAT_Number").toString());
 		
-		//returnEmployeesByNameAndBuildings
 		model.addAttribute("returnEmployeesByNameAndByBuildings", "Hide employees");
 		model.addAttribute("employeesByNameAndBuildings", EmployeeManager.getInstance().returnEmployeesByNameAndBuildings(company.getComapnyId()));
 		

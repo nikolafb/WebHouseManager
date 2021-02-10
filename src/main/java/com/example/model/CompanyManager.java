@@ -114,22 +114,17 @@ public class CompanyManager {
 	public synchronized void calculateBuildings(int companyId) {
 		ArrayList<Building> buildings=new ArrayList<Building>();
 		buildings=BuildingManager.getInstance().returnBuildingsOfCompanyId(companyId);
-		System.err.println("Buildings: "+buildings);
 		
 		ArrayList<Employee> employees=new ArrayList<Employee>();
 		employees=EmployeeManager.getInstance().returnEmployeesInThisCopany(companyId);
-		System.err.println("Employees: "+employees);
 		
 		for (int i = 0; i < buildings.size(); i++) {
-			System.out.println("1:   Building: "+buildings.get(i));
 			int bul=employees.get(0).getEmployeeBuildings().size();
 			Employee emp=employees.get(0);
 			for (int j = 1; j < employees.size(); j++) {
-				System.out.println("2:   Building: "+buildings.get(i)+"    Emloyee: "+employees.get(j));
 				if(bul>employees.get(j).getEmployeeBuildings().size()) {
 					bul=employees.get(j).getEmployeeBuildings().size();
 					emp=employees.get(j);
-					System.out.println("3!!!:   Building: "+buildings.get(i)+"    Emloyee: "+employees.get(j));
 				}
 				
 			}

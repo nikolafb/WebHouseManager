@@ -25,7 +25,6 @@ public class ApartmentManager {
 			if(lastApartmentgId<a.getApartmentId()) {
 				lastApartmentgId=a.getApartmentId();
 			}
-			System.out.println(a);
 			aparmets.put(a.getApartmentId(), a);
 		}
 	}

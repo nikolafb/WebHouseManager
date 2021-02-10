@@ -15,8 +15,8 @@ final class DBManager {
 	private static final String DBPort="3306";
 	private static final String DBName="housemanager";
 	private static final String URL="jdbc:mysql://"+DBIP+":"+DBPort+"/"+DBName;
-	private static final String USER="root";
-	private static final String PASSWORD="Kolio99!";
+	private static final String USER="";
+	private static final String PASSWORD="";
 	
 	private DBManager() {
 		try {

@@ -21,7 +21,6 @@ public class BuildingManager {
 			if(lastBuildingId<b.getBuildingId()) {
 				lastBuildingId=b.getBuildingId();
 			}
-			System.out.println(b);
 			if(b.getRemoved()!=1)
 			buildings.put(b.getBuildingId(), b);
 		}

@@ -24,7 +24,7 @@ import com.example.model.db.EmployeeDAO;
 
 public class EmployeeManager {
 
-	private final static File FOLDER=new File("E:\\Eclipse Java\\testproject\\WebHouseManager\\src\\main\\webapp\\static\\paidTaxes");
+	private final static File FOLDER=new File("\\webapp\\static\\paidTaxes");
 	private static EmployeeManager instance;
 	private static int lastEmployeeId=1;
 	private static String taxStatusMsg="";
@@ -38,7 +38,6 @@ public class EmployeeManager {
 			if(lastEmployeeId<e.getEmployeeId()) {
 				lastEmployeeId=e.getEmployeeId();
 			}
-			System.out.println("emp: "+e);
 				employees.put(e.getEmployeeId(), e);
 		}
 	}

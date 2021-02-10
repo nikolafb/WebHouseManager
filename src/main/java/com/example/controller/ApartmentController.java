@@ -112,7 +112,6 @@ public class ApartmentController {
 		model.addAttribute("apartments", am.returnApartmentsWithBuildingId(buildingId));
 		Building building=bm.returnOnlyOneBuildingByBuildingId(buildingId);
 		model.addAttribute("buildingInfo", true);
-		//String buildingDetails="City:"+building.getCity()+"  Address "+building.getAddress()+"  Floors  "+building.getFloors()+"  Build up area: "+building.getBuiltUpArea();
 		model.addAttribute("building", building);
 		model.addAttribute("hideApartments", "Hide all apartments");
 		
