@@ -1,0 +1,52 @@
+------------------07/02/2021 11:32---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 11:32
+Employee name: newqnqn newqnqn  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 4 owner: Nikola members: 4 pet: true kids: 0
+amount: 5078.0
+-----------------------------------------------------------------07/02/2021 11:32---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 11:32
+Employee name: newqnqn newqnqn  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
+amount: 5601.0
+-----------------------------------------------------------------07/02/2021 11:34---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 11:34
+Employee name: newqnqn newqnqn  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 4 owner: Nikola members: 4 pet: true kids: 0
+amount: 5078.0
+-----------------------------------------------------------------07/02/2021 11:34---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 11:34
+Employee name: newqnqn newqnqn  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
+amount: 5601.0
+-----------------------------------------------------------------07/02/2021 22:44---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 22:44
+Employee name: a a  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 4 owner: Nikola members: 4 pet: true kids: 0
+amount: 5078.0
+-----------------------------------------------
+------------------07/02/2021 22:44---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 07/02/2021 22:44
+Employee name: a a  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
+amount: 5601.0
+-----------------------------------------------
+------------------10/02/2021 10:49---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 10/02/2021 10:49
+Employee name: a a  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 4 owner: Nikola members: 4 pet: true kids: 0
+amount: 5078.0
+-----------------------------------------------
+------------------10/02/2021 10:49---------------------
+Price for area: 4.1 price for pet: 6.1 price for person: 6.1 date: 10/02/2021 10:49
+Employee name: a a  ID number: newrnwern
+Building in city: Varna  address: Sofia, Gotse Delchev number of floors: 5 number of apatments: 2
+Apartment on floor: 3 apatment number: 6 owner: Pesho Peshokov members: 4 pet: true kids: 2
+amount: 5601.0
+-----------------------------------------------

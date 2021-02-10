@@ -1,0 +1,209 @@
+<head>
+<style>
+@charset "UTF-8";
+
+
+.background{
+	background-color: red;
+}
+
+h1, p {
+  
+}
+
+.indexButton {
+  background-color: #d1c2a0;
+    border: 1px solid #87868591;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer
+}
+
+
+
+
+.home { 
+	text-align: center;
+    margin-top: 6%;
+    border: 1px solid #a8a39799;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 2%;
+    background-color: #f8eaca99;
+    box-shadow: 0 0px 0px 0 rgb(0 0 10)
+}
+
+
+.register{
+	text-align: center;
+    margin-top: 6%;
+    border: 1px solid #a8a39799;
+    font-size: 17px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 2%;
+    background-color: #f8eaca99;
+    box-shadow: 0 0px 0px 0 rgb(0 0 10)
+	
+}
+.registerButton {
+ background-color: #d1c2a0;
+    border: 1px solid #87868591;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+
+
+.login{
+	text-align: center;
+    margin-top: 6%;
+    border: 1px solid #a8a39799;
+    font-size: 17px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 2%;
+    background-color: #f8eaca99;
+    box-shadow: 0 0px 0px 0 rgb(0 0 10)
+	
+}
+.loginButton {
+ background-color: #d1c2a0;
+    border: 1px solid #87868591;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+
+
+.showPricesAndCollectedTaxesStatus{
+	text-align: center;
+    margin-top: 6%;
+    display: block;
+    box-shadow: 0 0px 0px 0 rgb(0 0 10)
+	
+}
+
+
+.showButtons{
+    margin-top: -6%;
+    margin-left: -1.2%;
+    display: block;
+    width: 14%;
+    padding: 2%;
+    box-shadow: 0 0px 0px 0 rgb(0 0 10)
+	
+}
+
+.showInfo{
+	margin-left: 33%;
+    font-size: 18px;
+    display: block;
+    width: auto;
+}
+
+
+.dashboardButtons{
+ background-color: #00000017;
+    border: 1px solid #2c2b2b30;
+    color: #000000; 
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+
+
+.dashboardButtonsShowBuildings{
+ background-color: #c246462b;
+    border: 1px solid #2c2b2b30;
+    color: #000000; 
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+
+.dashboardButtonsSortedByNameAndBuildings{
+	background-color: #00000017;
+    border: 1px solid #2c2b2b30;
+    color: #000000; 
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 4px;
+    cursor: pointer;
+	
+}
+
+.addApartment{
+	text-align: right;
+    margin-right: 42%;
+    margin-top: 4%;
+    font-size: 18px;
+    display: block;
+    width: auto;
+	
+}
+
+.buttonsForDelete{
+	background-color: #f44336;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 13px 4px;
+    cursor: pointer;
+	
+}
+
+.buttonsForCancel{
+	background-color: #ccc;
+    color: black;
+    margin-right: -13px;
+    margin-left: 9px;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+</style>
+</head>
